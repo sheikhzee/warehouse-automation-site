@@ -1,19 +1,19 @@
 # Smart Warehouse Automation
 
-This is a responsive and animated website built with **React**, **Tailwind CSS**, and **Framer Motion** to showcase smart warehouse automation services.
+A responsive React-based website showcasing smart warehouse automation solutions — including robotic handling, real-time inventory management, and WMS integration.
 
-## 🔧 Features
+## 🚀 Features
 
-- Smooth scroll and entrance animations using Framer Motion  
-- Responsive layout with Tailwind CSS  
-- Service cards for key automation features  
-- Clean and modern UI design  
-- Scrollable sections for Hero, Services, About, and Contact  
+- Animated hero and service sections using Framer Motion
+- Clean, responsive UI built with Tailwind CSS
+- About and contact sections included
+- Easy to expand with additional services or case studies
 
-## 🚀 Getting Started
+## 🛠️ Built With
 
-To run this project locally:
+- [React](https://reactjs.org/)
+- [Tailwind CSS](https://tailwindcss.com/)
+- [Framer Motion](https://www.framer.com/motion/)
 
-```bash
-npm install
-npm run dev
+## 📂 Folder Structure
+
